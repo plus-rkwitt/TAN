@@ -10,7 +10,7 @@ If you use this code, please cite our work as:
 
 ```
 @inproceedings{Zeng21a,
-  author    = {S.~Zeng, F.~Graf, C.~Hofer and R.~Kwitt},
+  author    = {S.~Zeng and F.~Graf and C.~Hofer and R.~Kwitt},
   title     = {Topological Attention for Time Series Forecasting},
   booktitle = {NeurIPS},
   year      = {2021}}
