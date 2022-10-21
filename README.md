@@ -1,11 +1,27 @@
 # Topological Attention (TAN)
 
-The repository contains the official (PyTorch) implementation of 
+Dear visitor,
+
+thank you for your interest in our work and welcome to this repository.
+
+The latter is dedicated, to provide the official (PyTorch) implementation of 
 
 **Topological Attention for Time Series Forecasting**     
 S. Zeng, F. Graf, C. Hofer and R. Kwitt     
-*NeurIPS 2021*
+*NeurIPS 2021*.
 
+Unfortunately, our code base has not yet reached the status we are aiming for.
+I.e., a self-contained version of our model with multiple applications, including
+[electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)
+and [traffic](https://archive.ics.uci.edu/ml/datasets/PEMS-SF) data, as well as thorough documentation and replication of
+the results in the paper. 
+
+We apologize and
+ask for a little more patience; stay tuned :slightly_smiling_face: ! 
+
+*Code release expected by January 2023.* 
+
+<!--- >
 If you use this code, please cite our work as:
 
 ```
@@ -15,7 +31,3 @@ If you use this code, please cite our work as:
   booktitle = {NeurIPS},
   year      = {2021}}
 ```
-
-*Code will be released at the time of NeurIPS 2021*
-
-
